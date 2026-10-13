@@ -1,0 +1,4 @@
+I believe it is supposed to take 8 and multiply it by 10, or whatever values are put into the area. Then it multiplies it by 350 returning 0.22 infinitely repeating if it doesn't have an error. On that note though, it doesn't return the result so I assume it will say NaN since it can't divide nothing.
+I was wrong on the exact number it would return. It turns out it returns 0.22857142857142856 exactly. Oh I divided by 360 in the beginning that's why.
+Making the are 0, 10 gives 0 since 0 x 10 = 0 and it can't divide 0
+Putting in a negative result makes the area negative and the answer is negative. I don't know if I'm supposed to do something about that.
